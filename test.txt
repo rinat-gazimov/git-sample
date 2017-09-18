@@ -6,3 +6,5 @@ Add new line.
 =======
 It's new line.
 >>>>>>> parent of 9474dc8... Test status
+
+branch
