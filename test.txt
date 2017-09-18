@@ -1,4 +1,8 @@
 Hello Git 123
+<<<<<<< HEAD
 It's new line.
 Add new line.
 14.09.2017
+=======
+It's new line.
+>>>>>>> parent of 9474dc8... Test status
